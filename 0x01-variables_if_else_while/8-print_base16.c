@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main->assign a random number 
+ *main->assign a random number
  *print the last digit of the number stored in the variable n.
  *Return : always 0
  */
@@ -15,7 +15,7 @@ int n;
 	putchar(n);
 	}
 	for (ch = 'a'; ch <= 'f'; ch++)
-	{	       
+	{
 	putchar(ch);
 	}
 	putchar(10);
