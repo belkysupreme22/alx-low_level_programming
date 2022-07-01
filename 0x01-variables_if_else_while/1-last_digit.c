@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *main-> assign a random number to the variable n each time it is executed. 
+ *main->assign a random number to the variable n each time it is executed. 
  *and print the last digit of the number stored in the variable n.
  *Return : always 0
  */
@@ -26,8 +26,6 @@ if (n < 6 && n != 0)
 {
 	printf("less than 6 and not 0");
 }
-
 printf("\n);
-
 return (0);
 }

@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *main ->  assign to the variable n each time it is executed and prints out
+ *main -> assign to the variable n each time it is executed and prints out
  *based condition
  *Return : always 0
  */
