@@ -8,7 +8,7 @@ void fizz_buzz(void)
 {
 int i;
 
-for (i = 0; i < 100; i++)
+for (i = 0; i <= 100; i++)
 {
 if (i == 100)
 printf("BUZZ ");
